@@ -17,3 +17,5 @@ Na základní informace o projektu/repozitáři se používá soubor README (čt
 - informace o licenci (více se licencích dozvíš později).
 
 README by mělo být členěné a jeho přečtení by nemělo zabrat uživateli hodinu, většinou stačí krátké úderné informace s případným odkazem někam dál. Není tedy například potřeba vysvětlovat v každém projektu, jak se instaluje Python. Stačí říct, že Python je potřeba (a v jaká verze) a odkázat uživatele na patřičný návod. Je také třeba brát v úvahu, kdo bude README číst. Píšete-li program pro jiné vývojářky a vývojáře, často není třeba zabrušovat do velikých detailů.
+
+## Vice informaci bude vyplneno
